@@ -1,4 +1,8 @@
 # Compiled class file
+# testing if file is pushed from local (master javier escudero)
+# C:\Users\p_roc\Documents\200727-java-ng-usf\javier_escudero_p0
+# to remote repository at github: 
+# 200727-java-ng-usf/javier_escudero_p0
 *.class
 
 # Log file
