@@ -3,7 +3,16 @@
 # C:\Users\p_roc\Documents\200727-java-ng-usf\javier_escudero_p0
 # to remote repository at github: 
 # 200727-java-ng-usf/javier_escudero_p0
+
+# IDE-specific files and folders
+.idea/
+*.iml
+
+# Build folders and files
+target/
+out/
 *.class
+
 
 # Log file
 *.log
