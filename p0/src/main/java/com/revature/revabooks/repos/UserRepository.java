@@ -1,3 +1,5 @@
+package com.revature.revabooks.repos;
+
 import com.revature.revabooks.models.AppUser;
 import com.revature.revabooks.models.Role;
 import com.revature.revabooks.util.ConnectionFactory;
